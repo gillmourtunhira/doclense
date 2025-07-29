@@ -3,18 +3,18 @@
  * Document-Lense
  *
  * @package     Document-Lense
- * @author      Centric Data
- * @copyright   2021 Centric Data
+ * @author      Gillmour Tunhira
+ * @copyright   2021 CodeCraft-ZW
  * @license     GPL-2.0-or-later
  *
 */
 /*
 Plugin Name: Document-Lense
-Plugin URI:  https://github.com/Centric-Data/doclense
+Plugin URI:  https://github.com/gillmourtunhira/doclense
 Description: This is a file download plugin, when activated allows files to be uploaded in the backend, and downloaded in the frontend. Files can be pdf, doc,docx
-Author: Centric Data
+Author: Gillmour Tunhira
 Version: 1.0.0
-Author URI: https://github.com/Centric-Data
+Author URI: https://github.com/gillmourtunhira
 Text Domain: doclense
 */
 /*
